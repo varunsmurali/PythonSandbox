@@ -1,2 +1,2 @@
 # PythonSandbox
-Sandbox to try out new things
+Sandbox to try out new things and fun
